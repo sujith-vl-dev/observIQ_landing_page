@@ -73,7 +73,7 @@ const Index = () => {
           <div className="flex justify-center space-x-6 mt-4">
             
             <a
-              href="https://www.linkedin.com/company/observ-iq"
+              href="https://www.linkedin.com/in/sujithvl/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-primary hover:text-primary/80 transition duration-300"
