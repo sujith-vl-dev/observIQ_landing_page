@@ -71,16 +71,9 @@ const Index = () => {
         <div className="container mx-auto text-center">
           <p className="text-lg font-semibold">Connect with me:</p>
           <div className="flex justify-center space-x-6 mt-4">
+            
             <a
-              href="https://wa.me/+918870712193"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-primary hover:text-primary/80 transition duration-300"
-            >
-              WhatsApp
-            </a>
-            <a
-              href="https://www.linkedin.com/in/sujithvl/"
+              href="https://www.linkedin.com/company/observ-iq"
               target="_blank"
               rel="noopener noreferrer"
               className="text-primary hover:text-primary/80 transition duration-300"
